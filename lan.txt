@@ -1,2 +1,2 @@
 vless://7b8cbb7e-00eb-4c8a-bdec-a13a69653965@d2.anonix.cloud:25689?encryption=none&security=none&type=ws&path=%2F#VLESS-Test
-vless://7b8cbb7e-00eb-4c8a-bdec-a13a69653965@d2.anonix.cloud:25689?encryption=none&security=none&type=ws&path=%2F#VLESS-Test GOVNO DUB
+vless://2d87400e-5c12-4357-98d9-800ad301b9bf@d2.anonix.cloud:25690?encryption=none&security=none&type=ws&path=%2F#VLESS Another Instance
